@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  clasificador:
+    build: .
+    container_name: clasificador_clip
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    volumes:
+      - ./app:/app/app    # Monta la carpeta para desarrollo en caliente

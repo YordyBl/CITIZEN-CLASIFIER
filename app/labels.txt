@@ -1,0 +1,12 @@
+una situación de emergencia en la vía pública (persona herida, incendio, choque fuerte)
+una falla crítica en infraestructura urbana (poste caído, semáforo roto, cable eléctrico expuesto)
+un vehículo obstruyendo el paso peatonal o la vía
+basura acumulada en la calle o vereda
+bache profundo o hueco peligroso en la calzada
+grietas en la vereda o acera rota
+pared o estructura derrumbada en la vía pública
+agua estancada o fuga en la calle
+grafiti, daño visual o vandalismo en mobiliario urbano
+objeto abandonado en la vía (colchón, mueble, escombros)
+problema menor que no representa peligro inmediato
+imagen irrelevante o no relacionada con problemas urbanos
